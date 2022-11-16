@@ -23,7 +23,7 @@ import shorturl
 import xdlink
 
 tl_admin_users = ['potterhead5','YosmelGarcia','user3'] #
-godlist = ['potterhead5','RichZC','admin3'] #
+godlist = ['potterhead5','RichZC', 'JAGB2021' , 'admin3'] #
 
 async def get_root(username):
     if os.path.isdir(config.ROOT_PATH+username)==False:
